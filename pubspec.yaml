@@ -51,14 +51,14 @@ dev_dependencies:
     sdk: flutter
   flutter_launcher_icons: ^0.14.1
 
-flutter_icons:
-  android: "launcher_icon"
-  ios: true
-  remove_alpha_ios: true
-  image_path: "assets/logo/wingbank_logo.png"
-  adaptive_icon_background: "#FFFFFF" 
-  adaptive_icon_foreground: "assets/logo/wingbank_logo.png"
-  min_sdk_android: 21
+# flutter_icons:
+#   android: "launcher_icon"
+#   ios: true
+#   remove_alpha_ios: true
+#   image_path: "assets/logo/wingbank_logo.png"
+#   adaptive_icon_background: "#FFFFFF" 
+#   adaptive_icon_foreground: "assets/logo/wingbank_logo.png"
+#   min_sdk_android: 21
 
 
   # The "flutter_lints" package below contains a set of recommended lints to
